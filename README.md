@@ -1,10 +1,43 @@
-- 👋 Hi, I’m @Rafiwalidain
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!-- GitHub Profile README untuk Rafiwalidain -->
 
-<!---
-Rafiwalidain/Rafiwalidain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00F2FF&center=true&vCenter=true&width=469&lines=Halo%2C+Saya+Muhammad+Rafi+Walidain!;Welcome+to+my+GitHub+profile!;+Web+Developer+Pemula+%7C+Tech+Enthusiast" />
+</p>
+
+---
+
+### 👋 Tentang Saya
+
+Saya seorang mahasiswa dan pengembang pemula yang tertarik pada dunia teknologi dan pemrograman.  
+Saat ini saya sedang belajar dan mengembangkan keterampilan di berbagai bidang seperti pengembangan web, pemrograman, dan sistem informasi.
+
+---
+
+### 🛠️ Teknologi & Tools yang Saya Gunakan:
+
+- 💻 Bahasa Pemrograman: C/C++, Java, Python, PHP, JavaScript
+- 🌐 Web Development: HTML, CSS, Laravel, React, Bootstrap
+- 🗄️ Basis Data: MySQL, Firebase
+- ⚙️ Tools: Visual Studio Code, Git & GitHub, XAMPP, Laragon, Postman
+
+---
+
+### 📊 Statistik GitHub:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafiwalidain&show_icons=true&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiwalidain&layout=compact&theme=radical" height="180em"/>
+</p>
+
+---
+
+### 📫 Hubungi Saya:
+
+- 📧 Email: rafi.walidain81@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/M Rafi Walidain](https://linkedin.com/in/m-rafi-walidain)
+- 🌐 Portofolio: _(coming soon)_
+
+---
+
+Terima kasih sudah mengunjungi profil saya!  
+Saya selalu terbuka untuk belajar hal baru dan berkolaborasi dalam proyek menarik. 🚀
