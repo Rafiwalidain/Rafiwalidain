@@ -8,8 +8,7 @@
 
 ### 👋 Tentang Saya
 
-Saya seorang mahasiswa dan pengembang pemula yang tertarik pada dunia teknologi dan pemrograman.  
-Saat ini saya sedang belajar dan mengembangkan keterampilan di berbagai bidang seperti pengembangan web, pemrograman, dan sistem informasi.
+Saya seorang mahasiswa dan pengembang pemula yang tertarik pada dunia teknologi dan pemrograman. Saat ini saya sedang belajar dan mengembangkan keterampilan di berbagai bidang seperti pengembangan web, pemrograman, dan sistem informasi.
 
 ---
 
@@ -24,12 +23,10 @@ Saat ini saya sedang belajar dan mengembangkan keterampilan di berbagai bidang s
 
 ### 📊 Statistik GitHub:
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rafiwalidain&show_icons=true&theme=radical" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiwalidain&layout=compact&theme=radical" height="180em"/>
 </p>
-
-### 🔥 Aktivitas GitHub:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Rafiwalidain&theme=radical&hide_border=false" />
