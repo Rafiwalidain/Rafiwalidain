@@ -13,18 +13,6 @@ Saat ini saya sedang belajar dan mengembangkan keterampilan di berbagai bidang s
 
 ---
 
-### 🔥 Aktivitas GitHub:
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rafiwalidain&theme=radical&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafiwalidain&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
 ### 🛠️ Teknologi & Tools yang Saya Gunakan:
 
 - 💻 Bahasa Pemrograman: C/C++, Java, Python, PHP, JavaScript
@@ -39,6 +27,12 @@ Saat ini saya sedang belajar dan mengembangkan keterampilan di berbagai bidang s
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Rafiwalidain&show_icons=true&theme=radical" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiwalidain&layout=compact&theme=radical" height="180em"/>
+</p>
+
+### 🔥 Aktivitas GitHub:
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rafiwalidain&theme=radical&hide_border=false" />
 </p>
 
 ---
