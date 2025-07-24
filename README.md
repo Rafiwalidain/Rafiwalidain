@@ -1,7 +1,7 @@
 <!-- GitHub Profile README untuk Rafiwalidain -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00F2FF&center=true&vCenter=true&width=469&lines=Halo%2C+Saya+Muhammad+Rafi+Walidain!;Welcome+to+my+GitHub+profile!;+Web+Developer+Pemula+%7C+Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=000000&center=true&vCenter=true&width=469&lines=Halo%2C+Saya+Muhammad+Rafi+Walidain!;Welcome+to+my+GitHub+profile!;+Junior+Web+Developer+%7C+Tech+Enthusiast" />
 </p>
 
 ---
