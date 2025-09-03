@@ -38,7 +38,7 @@ Saya seorang mahasiswa dan pengembang pemula yang tertarik pada dunia teknologi 
 
 - 📧 Email: rafi.walidain81@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/M Rafi Walidain](https://linkedin.com/in/m-rafi-walidain)
-- 🌐 Portofolio: rafiwalidain.vercel.app
+- 🌐 Portofolio: [rafiwalidain.vercel.app](https://rafiwalidain.vercel.app/)
 
 ---
 
